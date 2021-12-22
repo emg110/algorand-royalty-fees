@@ -11,8 +11,6 @@ AUTHOR: Alessio Russo (alessior@kth.se)
 
 LICENSE: [MIT](https://github.com/rssalessio/algorand-royalty-fees/blob/master/LICENSE)
 
-Donations address (Algorand wallet): ``DG44ST47RRVBKPFIQ633XK47TWSVDELX42L33ZNJE22KZW3GQLDVDSZDAY`` 
-
 ## Introduction
 **Royalty Fees play a huge role in the future of Blockchains, since they enable the possibility of guaranteeing fees  on second sales of an asset.** Unfortunately, Royalty Fees are yet not fully implemented on Blokchains. 
 
